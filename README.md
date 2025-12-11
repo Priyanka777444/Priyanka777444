@@ -12,4 +12,5 @@
 - **Face Recognition System**
 
 ## 🌐 Connect
+**Email:** priyankalate348@gmail.com 
 🔗 LinkedIn: ([Priyanka](https://www.linkedin.com/in/priyanka-late-1264a4316/))
